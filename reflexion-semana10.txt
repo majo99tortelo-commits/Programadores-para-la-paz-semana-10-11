@@ -1,0 +1,10 @@
+Las metodologías ágiles ayudan a una comunidad porque permiten organizar el trabajo en pasos cortos y claros, lo que facilita avanzar sin perderse en planes demasiado largos.
+La automatización es clave porque reduce tareas repetitivas y asegura que la información llegue rápido a quienes la necesitan.
+Por ejemplo, un bot que avisa en Telegram cuando hay un nuevo reporte evita que los coordinadores tengan que revisar manualmente el sistema.
+Esto ahorra tiempo y mejora la capacidad de respuesta ante problemas comunitarios.
+Además, los canales como Telegram permiten comunicación inmediata y accesible desde cualquier dispositivo.
+La transparencia aumenta porque todos los miembros pueden ver los reportes y las alertas en tiempo real.
+También se fortalece la confianza ciudadana al saber que sus incidencias no se pierden y generan acción.
+En conjunto, estas herramientas hacen que la participación sea más ordenada, colaborativa y efectiva.
+La comunidad se siente escuchada y los procesos se vuelven más sostenibles.
+Así, la tecnología se convierte en un puente para la organización social y la paz.

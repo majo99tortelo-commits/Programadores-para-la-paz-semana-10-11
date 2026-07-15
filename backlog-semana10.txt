@@ -1,0 +1,23 @@
+Como ciudadano quiero registrar una incidencia coon foto y ubicación para dejar evidencia 
+del caso.
+
+Como coordinador quiero recibir una alerta en telegram cuando se cree un nuevo reporte para
+actuar rápidamente.
+
+Como miembro del equipo quiero consultar reportes filtrados por fecha y categoria para hacer
+seguimiento.
+
+Como  analista quiero ver estadisticas de incidencias para identificar patrones y proponer 
+soluciones.
+
+Como ciudadano quiero recibir un correo dee confirmación cuando mi reporte sea registrado
+para sentir confianza en el sistema.
+
+
+Prioridad:
+
+1. Registrar incidencia (Sin esto no hay datos)
+2. Recibir alerta (Acción inmediata)
+3. Consultar reportes (seguimiento)
+4. Generar estadísticas (Mejora continua)
+5. Confirmación al ciudadano (Transparencia)

@@ -1,0 +1,10 @@
+evento: "nuevo_reporte_registrado"
+accion: "enviar_mensaje_telegram"
+mensaje: "Nuevo reporte recibido. Revisar sistema para detalles."
+excluir:
+  - nombres
+  - direcciones
+  - telefonos
+  - correos
+  - documentos_identidad
+  - claves o datos sensibles.

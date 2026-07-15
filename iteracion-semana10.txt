@@ -1,0 +1,15 @@
+¿Qué 2 tareas del backlog harías primero?
+Respuesta: 
+-Registrar incidencia
+-Recibir alerta de telegram
+
+¿Por qué son las más importantes?
+Respuesta:
+-Registrar incidencia es la base: sin reportes no hay datos para la veeduría.
+-Recibir alerta permite actuar rápido y dar respuesta inmediata a la comunidad.
+
+¿Qué significa para ti que una tarea esté “terminada”?
+Respuesta:
+-Funciona correctamente en pruebas.
+-Fue subido al repositorio Git.
+-Quedó registrado y documentado en el blacklog. 
