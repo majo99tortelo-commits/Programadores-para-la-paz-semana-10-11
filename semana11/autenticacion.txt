@@ -1,0 +1,7 @@
+El loguin es el proceso mediante el cual un usuario ingresa a una aplicación/plataforma 
+utilizando su nombre de usuario y contraseña para verificar su identidad. Algunas rutas deben 
+estar protegidas para evitar que personas no autorizadas accedan a información o privadas.
+Esto ayuda a mantener la seguridad de la aplicación y de los usuarios. 
+No se debe exponer públicamente información como contraseñas, datos personales, correos
+electronicos, números de identificación o información bancaria, ya que podría ser utilizada 
+de forma indebida.  

@@ -1,0 +1,7 @@
+La interfaz tendría una página principal donde se muestren todas las causas disponibles en 
+forma de lista o tarjetas, con su tíktulo, descripción y cantidad de apoyos recibidos.
+En la parte superior habría un formulario npara crear una nueva causa, con campos como 
+título y descripción, además de un botón "crear causa".
+Cada cauda tendŕa un botón "ayudar" para registrar el apoyo del usuario.
+Junto al botón se mostraría un contador con el número de apoyos que ha recibido cada causa 
+El diseño sería sencillo, claro y fácil de usar para cualquier persona.

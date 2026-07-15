@@ -1,0 +1,8 @@
+Una plataforma tecnológica que promueve la participación ciudadana debe contar con una base de
+datos para almacenar de forma organizada la información de los usuarios, las causas y los 
+apoyos. Tambié necesita un sistema de autenticación para verificar la identidad de las perso-
+nas que ingresan y evitar accesos no autorizados. Además, es importante protegerv la informa-
+ción para garantizar la privacidad y la seguridad de los datos personales. Esto ayuda a pre-
+venir el robo o la modificación indebida de la información. De esta manera, los usuarios pue-
+den confiar en la plataforma y participar de forma segura. Una buena protección también ase-
+gura el correcto funcionamiento del sistema y el cumplimiento de las normas de seguridad. 
